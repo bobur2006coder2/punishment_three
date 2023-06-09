@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h2{
+    margin-top: 40vh;
+    color: red;
+    font-size: 75px;
+    text-align: center;
+}
+
+.for-filter{
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    /* filter: blur(100px); */
+    background-image: url(./img/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+  
+}
